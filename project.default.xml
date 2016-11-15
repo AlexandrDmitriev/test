@@ -1,0 +1,161 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="Jscs" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="ERROR" enabled_by_default="true">
+            <option name="customRulesets">
+              <list>
+                <RulesetDescriptor>
+                  <option name="name" value="My first PHPMD rule set" />
+                  <option name="path" value="$USER_HOME$/www/tools/rulesetMD.xml" />
+                </RulesetDescriptor>
+              </list>
+            </option>
+          </inspection_tool>
+          <inspection_tool class="PhpCSValidationInspection" enabled="true" level="ERROR" enabled_by_default="true">
+            <option name="CODING_STANDARD" value="PSR2" />
+            <option name="WARNING_HIGHLIGHT_LEVEL_NAME" value="ERROR" />
+            <option name="SHOW_SNIFF_NAMES" value="true" />
+          </inspection_tool>
+        </profile>
+        <option name="PROJECT_PROFILE" value="Project Default" />
+        <option name="USE_PROJECT_PROFILE" value="true" />
+        <version value="1.0" />
+      </component>
+      <component name="JSHintConfiguration" version="2.9.2" use-config-file="true">
+        <option asi="false" />
+        <option bitwise="true" />
+        <option boss="false" />
+        <option browser="true" />
+        <option browserify="false" />
+        <option camelcase="false" />
+        <option couch="false" />
+        <option curly="true" />
+        <option debug="false" />
+        <option devel="false" />
+        <option dojo="false" />
+        <option elision="false" />
+        <option enforceall="false" />
+        <option eqeqeq="true" />
+        <option eqnull="false" />
+        <option es3="false" />
+        <option es5="false" />
+        <option esnext="false" />
+        <option evil="false" />
+        <option expr="false" />
+        <option forin="true" />
+        <option freeze="false" />
+        <option funcscope="false" />
+        <option futurehostile="false" />
+        <option gcl="false" />
+        <option globalstrict="false" />
+        <option immed="false" />
+        <option iterator="false" />
+        <option jasmine="false" />
+        <option jquery="false" />
+        <option lastsemic="false" />
+        <option latedef="false" />
+        <option laxbreak="false" />
+        <option laxcomma="false" />
+        <option loopfunc="false" />
+        <option maxerr="50" />
+        <option mocha="false" />
+        <option module="false" />
+        <option mootools="false" />
+        <option moz="false" />
+        <option multistr="false" />
+        <option newcap="false" />
+        <option noarg="true" />
+        <option nocomma="false" />
+        <option node="false" />
+        <option noempty="true" />
+        <option nomen="false" />
+        <option nonbsp="false" />
+        <option nonew="true" />
+        <option nonstandard="false" />
+        <option notypeof="false" />
+        <option noyield="false" />
+        <option onevar="false" />
+        <option passfail="false" />
+        <option phantom="false" />
+        <option plusplus="false" />
+        <option proto="false" />
+        <option prototypejs="false" />
+        <option qunit="false" />
+        <option quotmark="false" />
+        <option rhino="false" />
+        <option scripturl="false" />
+        <option shadow="false" />
+        <option shelljs="false" />
+        <option singleGroups="false" />
+        <option smarttabs="false" />
+        <option strict="true" />
+        <option sub="false" />
+        <option supernew="false" />
+        <option trailing="false" />
+        <option typed="false" />
+        <option undef="true" />
+        <option unused="false" />
+        <option validthis="false" />
+        <option varstmt="false" />
+        <option white="false" />
+        <option withstmt="false" />
+        <option worker="false" />
+        <option wsh="false" />
+        <option yui="false" />
+      </component>
+      <component name="PhpUnit">
+        <phpunit_settings>
+          <PhpUnitSettings load_method="CUSTOM_LOADER" />
+        </phpunit_settings>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Code quality toolsJavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>MessDetectorValidationInspection</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="settings.javascript.linters.jscs" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="$USER_HOME$/www/AE/node_modules/jscs" />
+        <property name="js-jscs-nodeInterpreter" value="/usr/bin/nodejs" />
+        <property name="js-jscs-package" value="$USER_HOME$/www/AE/node_modules/jscs" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
