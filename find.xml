@@ -17,6 +17,7 @@
       <mask>service.yml</mask>
       <mask>services.yml</mask>
       <mask>*.yml</mask>
+      <mask>entity_config.yml</mask>
     </recentFileMasks>
   </component>
 </application>
