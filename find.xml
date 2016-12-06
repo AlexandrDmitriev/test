@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[mono] - .../package/platform/src/Oro/Bundle/FormBundle/Resources/public/js/optional-validation-groups-handler.js'" />
     <option name="defaultScopeName" value="File '[mono] - .../package/platform/src/Oro/Bundle/FormBundle/Resources/public/js/optional-validation-groups-handler.js'" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '[mono] - .../package/platform/src/Oro/Bundle/FormBundle/Resources/public/js/optional-validation-groups-handler.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>
