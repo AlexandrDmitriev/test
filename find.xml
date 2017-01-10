@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '[mono] - .../package/platform/src/Oro/Bundle/FormBundle/Resources/public/js/optional-validation-groups-handler.js'" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,9 +20,9 @@
       <mask>service.yml</mask>
       <mask>services.yml</mask>
       <mask>entity_config.yml</mask>
-      <mask>*.yml</mask>
       <mask>datagrid.yml</mask>
       <mask>datagrids.yml</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
