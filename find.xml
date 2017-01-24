@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '[mono] - .../package/platform/src/Oro/Bundle/FormBundle/Resources/public/js/optional-validation-groups-handler.js'" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,6 +24,7 @@
       <mask>*.php</mask>
       <mask>*.md</mask>
       <mask>*.yml</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
