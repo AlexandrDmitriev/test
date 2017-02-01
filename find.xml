@@ -3,6 +3,7 @@
     <option name="customScope" value="File '[mono] - .../package/platform/src/Oro/Bundle/FormBundle/Resources/public/js/optional-validation-groups-handler.js'" />
     <option name="defaultScopeName" value="File '[mono] - .../package/platform/src/Oro/Bundle/FormBundle/Resources/public/js/optional-validation-groups-handler.js'" />
     <option name="SEARCH_SCOPE" value="File '[mono] - .../package/platform/src/Oro/Bundle/FormBundle/Resources/public/js/optional-validation-groups-handler.js'" />
+    <option name="FILE_MASK" value="*.md" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,9 +20,9 @@
       <mask>datagrid.yml</mask>
       <mask>datagrids.yml</mask>
       <mask>*.php</mask>
-      <mask>*.md</mask>
       <mask>*.twig</mask>
       <mask>*.yml</mask>
+      <mask>*.md</mask>
     </recentFileMasks>
   </component>
 </application>
