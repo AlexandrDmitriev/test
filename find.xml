@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory '[AE] - .../src/AE/Bundle/ImportBundle'" />
     <option name="defaultScopeName" value="Directory '[AE] - .../src/AE/Bundle/ImportBundle'" />
     <option name="SEARCH_SCOPE" value="Directory '[AE] - .../src/AE/Bundle/ImportBundle'" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,10 +19,10 @@
       <mask>entity_config.yml</mask>
       <mask>datagrid.yml</mask>
       <mask>datagrids.yml</mask>
-      <mask>*.php</mask>
       <mask>*.twig</mask>
       <mask>*.md</mask>
       <mask>*.yml</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
