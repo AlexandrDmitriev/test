@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="search.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,10 +21,17 @@
       <mask>entity_config.yml</mask>
       <mask>datagrid.yml</mask>
       <mask>datagrids.yml</mask>
-      <mask>*.yml</mask>
       <mask>*.php</mask>
       <mask>*.twig</mask>
       <mask>*.md</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
+      <mask>s.yml</mask>
+      <mask>se.yml</mask>
+      <mask>sea.yml</mask>
+      <mask>sear.yml</mask>
+      <mask>searc.yml</mask>
+      <mask>search.yml</mask>
     </recentFileMasks>
   </component>
 </application>
