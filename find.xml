@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.js</mask>
@@ -29,13 +30,13 @@
       <mask>*.нь</mask>
       <mask>*.н</mask>
       <mask>*.</mask>
-      <mask>*.y</mask>
       <mask>*.ym</mask>
-      <mask>*.yml</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
