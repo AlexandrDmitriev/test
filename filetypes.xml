@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="s" type="PLAIN_TEXT" />
       <mapping pattern="1e065bfb7ee50f76ca229f1a9d84cba570041598" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
