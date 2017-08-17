@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>services.yml</mask>
       <mask>entity_config.yml</mask>
@@ -25,7 +26,6 @@
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>*.ym</mask>
       <mask>*.чьд</mask>
       <mask>*.чь</mask>
@@ -36,6 +36,7 @@
       <mask>*.yml</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
