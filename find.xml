@@ -6,13 +6,6 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>entity_config.yml</mask>
-      <mask>datagrid.yml</mask>
-      <mask>datagrids.yml</mask>
-      <mask>*.php</mask>
-      <mask>*.md</mask>
-      <mask>se.yml</mask>
-      <mask>sea.yml</mask>
       <mask>sear.yml</mask>
       <mask>searc.yml</mask>
       <mask>search.yml</mask>
@@ -36,6 +29,13 @@
       <mask>s.yml</mask>
       <mask>.yml</mask>
       <mask>*.yml</mask>
+      <mask>r.yml</mask>
+      <mask>ro.yml</mask>
+      <mask>rou.yml</mask>
+      <mask>rout.yml</mask>
+      <mask>routi.yml</mask>
+      <mask>routin.yml</mask>
+      <mask>routing.yml</mask>
     </recentFileMasks>
   </component>
 </application>
