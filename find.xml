@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.ньд</mask>
       <mask>*.нь</mask>
@@ -23,7 +24,6 @@
       <mask>*.twig</mask>
       <mask>s.yml</mask>
       <mask>.yml</mask>
-      <mask>*.yml</mask>
       <mask>r.yml</mask>
       <mask>ro.yml</mask>
       <mask>rou.yml</mask>
@@ -36,6 +36,7 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
