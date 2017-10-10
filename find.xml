@@ -5,13 +5,12 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>*.ньд</mask>
       <mask>*.нь</mask>
       <mask>*.н</mask>
       <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twi</mask>
       <mask>*.ym</mask>
       <mask>*.чьд</mask>
       <mask>*.чь</mask>
@@ -20,7 +19,6 @@
       <mask>*.y</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.twig</mask>
       <mask>s.yml</mask>
       <mask>.yml</mask>
       <mask>r.yml</mask>
@@ -30,12 +28,15 @@
       <mask>routi.yml</mask>
       <mask>routin.yml</mask>
       <mask>routing.yml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.yml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
