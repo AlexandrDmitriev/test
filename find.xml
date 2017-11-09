@@ -5,11 +5,8 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.ньд</mask>
-      <mask>*.нь</mask>
-      <mask>*.н</mask>
-      <mask>*.t</mask>
       <mask>*.ym</mask>
       <mask>*.чьд</mask>
       <mask>*.чь</mask>
@@ -32,10 +29,14 @@
       <mask>*.css</mask>
       <mask>*.yml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
