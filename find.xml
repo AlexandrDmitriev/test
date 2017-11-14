@@ -5,17 +5,9 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="datagrids.yml" />
     <recentFileMasks>
-      <mask>*.ym</mask>
-      <mask>*.чьд</mask>
-      <mask>*.чь</mask>
-      <mask>*.ч</mask>
-      <mask>*.xm</mask>
-      <mask>*.y</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>s.yml</mask>
-      <mask>.yml</mask>
       <mask>r.yml</mask>
       <mask>ro.yml</mask>
       <mask>rou.yml</mask>
@@ -36,6 +28,15 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>s.yml</mask>
+      <mask>.yml</mask>
+      <mask>da.yml</mask>
+      <mask>data.yml</mask>
+      <mask>datag.yml</mask>
+      <mask>datagr.yml</mask>
+      <mask>datagri.yml</mask>
+      <mask>datagrid.yml</mask>
+      <mask>datagrids.yml</mask>
     </recentFileMasks>
   </component>
 </application>
