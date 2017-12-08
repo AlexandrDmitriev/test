@@ -7,9 +7,8 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="datagrids.yml" />
+    <option name="FILE_MASK" value="*.md" />
     <recentFileMasks>
-      <mask>data.yml</mask>
       <mask>datag.yml</mask>
       <mask>datagr.yml</mask>
       <mask>datagri.yml</mask>
@@ -35,10 +34,11 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
+      <mask>datagrids.yml</mask>
+      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.md</mask>
-      <mask>datagrids.yml</mask>
     </recentFileMasks>
   </component>
 </application>
