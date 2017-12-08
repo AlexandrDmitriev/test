@@ -7,6 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>datag.yml</mask>
       <mask>datagr.yml</mask>
@@ -30,14 +31,14 @@
       <mask>datagrid.yml</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>datagrids.yml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.md</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
