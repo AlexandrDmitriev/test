@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.md" />
+    <option name="FILE_MASK" value="datagrids.yml" />
     <recentFileMasks>
       <mask>data.yml</mask>
       <mask>datag.yml</mask>
@@ -27,7 +29,6 @@
       <mask>dashboar.yml</mask>
       <mask>dashboard.yml</mask>
       <mask>dashboards.yml</mask>
-      <mask>datagrids.yml</mask>
       <mask>datagrid.yml</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
@@ -37,6 +38,7 @@
       <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.md</mask>
+      <mask>datagrids.yml</mask>
     </recentFileMasks>
   </component>
 </application>
