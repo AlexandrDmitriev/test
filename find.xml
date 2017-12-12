@@ -5,10 +5,8 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>datag.yml</mask>
-      <mask>datagr.yml</mask>
-      <mask>datagri.yml</mask>
       <mask>w.yml</mask>
       <mask>wi.yml</mask>
       <mask>wid.yml</mask>
@@ -30,12 +28,15 @@
       <mask>*.js</mask>
       <mask>*.y</mask>
       <mask>datagrids.yml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.md</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
