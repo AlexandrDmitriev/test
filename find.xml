@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="datagrids.yml" />
     <recentFileMasks>
       <mask>w.yml</mask>
       <mask>wi.yml</mask>
