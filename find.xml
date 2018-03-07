@@ -5,8 +5,8 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>wi.yml</mask>
       <mask>wid.yml</mask>
       <mask>widge.yml</mask>
       <mask>widgets.yml</mask>
@@ -36,6 +36,7 @@
       <mask>datagrids.yml</mask>
       <mask>*.php</mask>
       <mask>composer.json</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
