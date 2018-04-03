@@ -6,7 +6,7 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/www/tools/vendor/bin/phpcs" />
+      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/www/mono/application/commerce-crm-ee/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
