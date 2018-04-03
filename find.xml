@@ -5,37 +5,5 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>wid.yml</mask>
-      <mask>widge.yml</mask>
-      <mask>widgets.yml</mask>
-      <mask>widget.yml</mask>
-      <mask>d.yml</mask>
-      <mask>da.yml</mask>
-      <mask>das.yml</mask>
-      <mask>dash.yml</mask>
-      <mask>dashb.yml</mask>
-      <mask>dashbo.yml</mask>
-      <mask>dashboa.yml</mask>
-      <mask>dashboar.yml</mask>
-      <mask>dashboard.yml</mask>
-      <mask>dashboards.yml</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.y</mask>
-      <mask>*.m</mask>
-      <mask>*.md</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>datagrid.yml</mask>
-      <mask>datagrids.yml</mask>
-      <mask>*.php</mask>
-      <mask>composer.json</mask>
-      <mask>*.json</mask>
-    </recentFileMasks>
   </component>
 </application>
